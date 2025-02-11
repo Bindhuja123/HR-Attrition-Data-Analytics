@@ -56,3 +56,18 @@ Programming: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Machine Learning Models: Logistic Regression, Random Forest, XGBoost
 Jupyter Notebook for EDA & Model Training
+
+Exploratory Data Analysis (EDA)
+✔ Data cleaning & handling missing values
+✔ Feature selection & correlation analysis
+✔ Data visualization using Matplotlib & Seaborn
+
+🤖 Machine Learning Approach
+1️⃣ Data Preprocessing (Encoding categorical variables, scaling)
+2️⃣ Model Training (Logistic Regression, Random Forest, XGBoost)
+3️⃣ Model Evaluation (Accuracy, Precision, Recall, F1-score, ROC Curve)
+
+📈 Key Insights & Recommendations
+High attrition observed in employees with low job satisfaction & work-life balance.
+Salary and promotions significantly impact employee retention.
+Optimizing HR policies can reduce attrition rates.
