@@ -65,9 +65,9 @@ The data contains demographic details, work-related metrics and attrition flag.
 Jupyter Notebook for EDA & Model Training
 
 ## Exploratory Data Analysis (EDA)
-✔ Data cleaning & handling missing values
-✔ Feature selection & correlation analysis
-✔ Data visualization using Matplotlib & Seaborn
+* Data cleaning & handling missing values
+* Feature selection & correlation analysis
+*  Data visualization using Matplotlib & Seaborn
 
 ## Machine Learning Approach
 * Data Preprocessing (Encoding categorical variables, scaling)
