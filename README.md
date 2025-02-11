@@ -2,16 +2,16 @@
 This project analyzes employee attrition using HR data to identify key factors influencing employee turnover. The analysis involves data preprocessing, exploratory data analysis (EDA), and machine learning models to predict attrition.
 
 Key Features:
-✅ Data Cleaning & Preprocessing (Handling missing values, encoding categorical data)
-✅ Exploratory Data Analysis (Visualization of key trends using Matplotlib & Seaborn)
-✅ Feature Engineering (Selecting impactful features for prediction)
-✅ Machine Learning Model (Logistic Regression, Random Forest, etc.)
-✅ Model Evaluation (Accuracy, Precision, Recall, F1-score)
-✅ Insights & Recommendations for HR Decision-Making
+* Data Cleaning & Preprocessing (Handling missing values, encoding categorical data)
+* Exploratory Data Analysis (Visualization of key trends using Matplotlib & Seaborn)
+* Feature Engineering (Selecting impactful features for prediction)
+* Machine Learning Model (Logistic Regression, Random Forest, etc.)
+* Model Evaluation (Accuracy, Precision, Recall, F1-score)
+* Insights & Recommendations for HR Decision-Making
 
-📂 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+##  Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-🔍 Goal: Help HR teams reduce attrition by identifying key factors and making data-driven decisions.
+Goal: Help HR teams reduce attrition by identifying key factors and making data-driven decisions.
 ## Problem Statement
 McCurr Consultancy is an MNC that has thousands of employees spread across the globe. The company believes in hiring the best talent available and retaining them for as long as possible. A huge amount of resources is spent on retaining existing employees through various initiatives. The Head of People Operations wants to bring down the cost of retaining employees. For this, he proposes limiting the incentives to only those employees who are at risk of attrition. As a recently hired Data Scientist in the People Operations Department, you have been asked to identify patterns in characteristics of employees who leave the organization. Also, you have to use this information to predict if an employee is at risk of attrition. This information will be used to target them with incentives.
 
@@ -71,12 +71,12 @@ Jupyter Notebook for EDA & Model Training
 ✔ Feature selection & correlation analysis
 ✔ Data visualization using Matplotlib & Seaborn
 
-🤖 Machine Learning Approach
-1️⃣ Data Preprocessing (Encoding categorical variables, scaling)
-2️⃣ Model Training (Logistic Regression, Random Forest, XGBoost)
-3️⃣ Model Evaluation (Accuracy, Precision, Recall, F1-score, ROC Curve)
+## Machine Learning Approach
+* Data Preprocessing (Encoding categorical variables, scaling)
+* Model Training (Logistic Regression, Random Forest, XGBoost)
+* Model Evaluation (Accuracy, Precision, Recall, F1-score, ROC Curve)
 
-📈 Key Insights & Recommendations
-High attrition observed in employees with low job satisfaction & work-life balance.
-Salary and promotions significantly impact employee retention.
-Optimizing HR policies can reduce attrition rates.
+## Key Insights & Recommendations
+* High attrition observed in employees with low job satisfaction & work-life balance.
+* Salary and promotions significantly impact employee retention.
+* Optimizing HR policies can reduce attrition rates.
