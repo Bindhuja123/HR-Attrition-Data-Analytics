@@ -9,7 +9,7 @@ Key Features:
 * Model Evaluation (Accuracy, Precision, Recall, F1-score)
 * Insights & Recommendations for HR Decision-Making
 
-##  Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+ Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Goal: Help HR teams reduce attrition by identifying key factors and making data-driven decisions.
 ## Problem Statement
