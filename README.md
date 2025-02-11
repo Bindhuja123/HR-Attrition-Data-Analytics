@@ -6,7 +6,7 @@ McCurr Consultancy is an MNC that has thousands of employees spread across the g
 
 ## Objective :
 - Understand the factors contributing to employee attrition.
-Perform data analysis and visualization to derive insights.
+* Perform data analysis and visualization to derive insights.
 Develop machine learning models to predict employee churn.
 Provide actionable recommendations for reducing attrition.
 
